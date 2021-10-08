@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Errupti0n
+- 👋 Hi, I’m Erruption
 - 👀 I’m interested in Coding & Hacking
 - 🌱 I’m currently learning Rust & C++
 - 💞️ I’m looking to collaborate on big Projects
