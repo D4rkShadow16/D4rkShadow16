@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Erruption
 - 👀 I’m interested in Coding & Hacking
 - 🌱 I’m currently learning Rust & C++
-- 💞️ I’m looking to collaborate on big Projects
+- 💞️ I’m looking to collaborate on Big Projects
 - 📫 How to reach me: Erruption#6173
 - 👨‍💻 My Website: https://erruptiondev.tk/
 
@@ -11,6 +11,11 @@
 <p align="left">
 <a href="https://discord.gg/JUFE5eTYuS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JUFE5eTYuS" height="30" width="40" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Errupti0n&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Errupti0n" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Errupti0n&show_icons=true&theme=dracula&locale=en" alt="Errupti0n" /></p>
+
 
 <!---
 Errupti0n/Errupti0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
