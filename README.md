@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Errupti0n.Errupti0n)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Errupti0n.Errupti0n)
 
 - 👋 Hi, I’m Erruption
 - 👀 I’m interested in Coding & Hacking
