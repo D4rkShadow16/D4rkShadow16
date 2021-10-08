@@ -1,4 +1,4 @@
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Errupti0n.Errupti0n)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Errupti0n&label=Profile%20views&color=9d0eb6&style=flat" alt="Errupti0n" /> </p>
 
 - 👋 Hi, I’m Erruption
 - 👀 I’m interested in Coding & Hacking
