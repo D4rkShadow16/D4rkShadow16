@@ -1,6 +1,7 @@
+<h1 align="center">👋 Hi, I’m Erruption</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Errupti0n&label=Profile%20views&color=9d0eb6&style=flat" alt="Errupti0n" /> </p>
 
-- 👋 Hi, I’m Erruption
 - 👀 I’m interested in Coding & Hacking
 - 🌱 I’m currently learning Rust & C++
 - 💞️ I’m looking to collaborate on Big Projects
