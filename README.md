@@ -1,16 +1,15 @@
-<h1 align="center">👋 Hi, I’m Erruption</h1>
+<h1 align="center">👋 Hi, I’m DarkShadow aka D4rkShadow</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Errupti0n&label=Profile%20views&color=9d0eb6&style=flat" alt="Errupti0n" /> </p>
 
 - 👀 I’m interested in Coding & Hacking
 - 🌱 I’m currently learning Rust & C++
 - 💞️ I’m looking to collaborate on Big Projects
-- 📫 How to reach me: Erruption#6173
-- 👨‍💻 My Website: https://erruptiondev.tk/
+- 📫 How to reach me: DarkShadow#8676
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/JUFE5eTYuS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JUFE5eTYuS" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JUFE5eTYuS" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages I Know:</h3>
